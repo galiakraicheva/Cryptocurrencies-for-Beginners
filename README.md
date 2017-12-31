@@ -1,2 +1,6 @@
 # Cryptocurrencies-for-Beginners
-As usual, this is a list of materials that one can follow with my explanations to get familiar with cryptocurrencies
+
+## Bitcoin Basics
+
+## Etherium and Smart Contracts Basics
+https://medium.com/blockchannel/a-beginners-guide-to-ethereum-5e7e132a854d
